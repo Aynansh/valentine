@@ -53,7 +53,7 @@ export default function Page() {
             src="https://media.tenor.com/OrxXcqX25KcAAAAi/dudu-bubu-love-gif.gif"
           />
           <h1 className="font-poppins font-semibold text-4xl md:text-6xl my-4 text-center">
-            Ittu sa bebu ji, will you be my Valentine?
+            will you be my Valentine, baby?
           </h1>
           <div className="flex flex-wrap justify-center gap-2 items-center">
             <button
